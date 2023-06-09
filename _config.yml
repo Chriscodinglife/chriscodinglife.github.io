@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Chriscodinglife Blog # the main title
 
-tagline: Cuz I broke stuff # it will display as the sub-title
+tagline: Look at me, I'm the IT now # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Look at me, I'm the IT now
@@ -31,8 +31,8 @@ url: "https://chriscodinglife.github.io"
 github:
   username: chriscodinglife # change to your github username
 
-twitter:
-  username: # change to your twitter username
+# twitter:
+#   username: # change to your twitter username
 
 social:
   # Change to your full name.
@@ -81,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/1.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
