@@ -24,7 +24,7 @@
   url: "https://www.linkedin.com/in/chrisdotorellana/" # Fill with your Linkedin homepage
 
 - type: website
-  icon: "fa-duotone fa-browser"
+  icon: "fad fa-browser"
   url: "https://chriscoding.app"
 #
 # - type: stack-overflow
