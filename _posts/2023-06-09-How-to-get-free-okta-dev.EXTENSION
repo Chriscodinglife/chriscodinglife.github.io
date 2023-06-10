@@ -5,11 +5,11 @@ categories: [OKTA, DEVELOPER]
 tags: [developer, free, okta, admin] # TAG names should always be lowercase
 author: chris
 pin: true
-render_with_liquid: false
 ---
 
 
 Honestly this will be my first post to my own blog which is kind of cool. All gittyness aside, I want to show you how you can easily get a free Okta Developer environment.
+
 
 ![free](/assets/img/free.png)
 _free_
