@@ -7,9 +7,9 @@ author: chris
 pin: true
 ---
 
-# Okta Developer For Free
-
 Honestly this will be my first post to my own blog which is kind of cool. All gittyness aside, I want to show you how you can easily get a free Okta Developer environment.
+
+## Okta Developer For Free
 
 ![Free](/assets/img/free.png)
 _free_
