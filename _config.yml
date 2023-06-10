@@ -81,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn: "https://chriscodingimages.s3.amazonaws.com"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/1.png"
+avatar: "/1.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
