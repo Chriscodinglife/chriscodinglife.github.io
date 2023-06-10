@@ -11,5 +11,5 @@ Honestly this will be my first post to my own blog which is kind of cool. All gi
 
 ## Okta Developer For Free
 
-![Free](/assets/img/free.png)
+![Free](https://i.imgflip.com/7ouxak.jpg)
 _free_
