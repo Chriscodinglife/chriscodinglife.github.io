@@ -23,4 +23,4 @@ Hopefully here you can take a tidbit or two of knowledge nuggets with you on you
 [My Coding Portfolio](https://chriscoding.app)
 [LinkedIn](https://www.linkedin.com/in/chrisdotorellana)
 [Github](https://github.com/Chriscodinglife)
-[Email](chrisdotorellana@gmail.com)
+[Email](mailto:chrisdotorellana@gmail.com)
