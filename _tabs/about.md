@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Why I Started This Blog
+# Why I Started This Blog
 
 ![solve](https://i.imgflip.com/7ozrsm.jpg)
 
@@ -18,9 +18,9 @@ Now with sources like ChatGPT out in the wild, maybe some of the knowledge gap h
 
 Hopefully here you can take a tidbit or two of knowledge nuggets with you on your IT journey. I know I wish I had someone showing me the ropes while I was learning to be a better IT tech.
 
-### My other links:
+## My other links
 
-[My Coding Portfolio](https://chriscoding.app)
-[LinkedIn](https://www.linkedin.com/in/chrisdotorellana)
-[Github](https://github.com/Chriscodinglife)
-[Email](mailto:chrisdotorellana@gmail.com)
+- [My Coding Portfolio](https://chriscoding.app)
+- [LinkedIn](https://www.linkedin.com/in/chrisdotorellana)
+- [Github](https://github.com/Chriscodinglife)
+- [Email](mailto:chrisdotorellana@gmail.com)
