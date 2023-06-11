@@ -97,7 +97,7 @@ It's 6 USD, way cheaper, but for some weird reason, you can't even make that you
 
 ![shadybusiness](https://i.imgflip.com/7ozh5g.jpg)
 
-But no worries, go ahead and continue to check out, since we have 14 days to try out Google Workspace for Free. You can always downgrade your plan later to the Business Starter plan via this KB here: [Switch to Business Starter](/https://support.google.com/a/answer/10069853?hl=en)
+But no worries, go ahead and continue to check out, since we have 14 days to try out Google Workspace for Free. You can always downgrade your plan later to the Business Starter plan via this KB here: [Switch to Business Starter](https://support.google.com/a/answer/10069853?hl=en)
 
 Let's click on "Try free for 14 days"
 
@@ -111,7 +111,7 @@ Feel free to enter how you want to pay.
 
 Neat bit I think is that you can pay with Paypal 💰
 
-![paypal](/https://i.imgflip.com/7ozih4.jpg)
+![paypal](https://i.imgflip.com/7ozih4.jpg)
 
 If you are wondering what domain registration info private is, this is the DNS provider basically changing up your info in case you don't really want to post on the internet the address your inputting and your personal info. I'd suggest leaving that on.
 
@@ -131,4 +131,4 @@ And there you have it, with a few steps, you were able to setup a free "Dev" env
 
 Now we can start panic testing stuff for the next 14 days until our trial is over.
 
-![panicagain](/https://i.imgflip.com/7oziyl.jpg)
+![panicagain](https://i.imgflip.com/7oziyl.jpg)
