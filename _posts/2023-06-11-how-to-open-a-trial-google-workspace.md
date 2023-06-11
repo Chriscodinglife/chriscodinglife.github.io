@@ -8,7 +8,7 @@ pin: true
 toc: true
 ---
 
-Setting up a Google Workspace environment is quick and easy, and can definitely help if you are learning IT.
+Setting up a Google Workspace environment is quick and easy, and can definitely help if you are learning IT and want to setup a test environment that is not tied to your job. _We can break stuff ....for free_
 
 ## How to Open a Trial Google Workspace
 
