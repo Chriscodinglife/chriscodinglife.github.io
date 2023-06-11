@@ -5,6 +5,7 @@ categories: [Google, Workspace]
 tags: [google workspace, admin console, trial] # TAG names should always be lowercase
 author: chris
 pin: true
+toc: true
 ---
 
 Setting up a Google Workspace environment is quick and easy, and can definitely help if you are learning IT.
@@ -132,3 +133,9 @@ And there you have it, with a few steps, you were able to setup a free "Dev" env
 Now we can start panic testing stuff for the next 14 days until our trial is over.
 
 ![panicagain](https://i.imgflip.com/7oziyl.jpg)
+
+## More Useful Stuff
+
+[Google Workspace Admin Help Page](https://support.google.com/a/?hl=en#topic=4388346)
+[Google Workspace Blog](https://workspace.google.com/blog)
+[Duet AI for Workspace](https://workspace.google.com/blog/product-announcements/duet-ai-now-available-preorder)

@@ -5,6 +5,7 @@ categories: [Okta, Developer, Free]
 tags: [developer, free, okta, admin] # TAG names should always be lowercase
 author: chris
 pin: true
+toc: true
 ---
 
 Honestly this will be my first post to my own blog which is kind of cool. All giddy-ness aside, I want to show you how you can easily get a 🔥**free Okta Developer environment**🔥.
@@ -42,3 +43,8 @@ With that you can do some neat stuff like:
 Well that's my quick and short first blog! I want to make this part of a series for how to setup a SAML and SCIM integration with Okta. More to come. ✌
 
 ![gif](https://jixifox.files.wordpress.com/2015/09/meme-when-you-know-you-are-the-cool-guy-ont-he-planet.gif)
+
+## More Readings
+
+[Okta Developer](https://developer.okta.com/)
+[Okta Expression Language](https://developer.okta.com/docs/reference/okta-expression-language/)
