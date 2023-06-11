@@ -61,35 +61,35 @@ I will search for "christestworkspace" and select "christestworkspace.net" under
 
 ![selectdomain](/2023-06-11+10_56_50-Window.png)
 
-![domainnext](/2023-06-11+10_59_26-Window.png)
+![domainnext](/2023-06-11_10_59_26-Window.png)
 
 5 - It will ask you for some business info like your location and phone number. After you put your info hit Next.
 
-![personalinfo](/2023-06-11+11_02_01-Window.png)
+![personalinfo](/2023-06-11_11_02_01-Window.png)
 
 6 - You can hit "No thanks" on the Educate your users section. They don't need no edumakation.
 
-![whatisschool](/2023-06-11+11_04_20-Window.png)
+![whatisschool](/2023-06-11_11_04_20-Window.png)
 
 7 - Go ahead and setup your username and password, and when your ready click on Agree and Continue
 
-![setupusername](/2023-06-11+11_06_39-Window.png)
+![setupusername](/2023-06-11_11_06_39-Window.png)
 
 8 - Now it will ask you to login for the first time. Go ahead hit Next, and Enter your password and hit Next again/
 
-![loginfirstime](/2023-06-11+11_08_06-Window.png)
+![loginfirstime](/2023-06-11_11_08_06-Window.png)
 
 You might get asked to verify who you are so enter your phone number to continue
 
-![verify](/2023-06-11+11_09_35-Window.png)
+![verify](/2023-06-11_11_09_35-Window.png)
 
 9 - After you verify, you will be taken to the TOS of your account, and just hit "I Understand"
 
-![tos](/2023-06-11+11_11_18-Window.png)
+![tos](/2023-06-11_11_11_18-Window.png)
 
 10 - ✋(HOLD ON DON'T BUY ANYTHING YET) Idk why, but immediately you might be faced with the recommendation to purchase the Business Standard Plan, and based on the date of this writing, it is costing about $14 bucks? What's worse is that on this pane you can't even select another plan. WTH Google?
 
-![shady](/2023-06-11+11_12_37-Window.png)
+![shady](/2023-06-11_11_12_37-Window.png)
 
 More keen users might have noticed that you could have picked the Business Starter plan here under the [Pricing tab for Google Workspace](https://workspace.google.com/pricing.html)
 
@@ -101,13 +101,13 @@ But no worries, go ahead and continue to check out, since we have 14 days to try
 
 Let's click on "Try free for 14 days"
 
-![fineillclick](/2023-06-11+11_26_47-Window.png)
+![fineillclick](/2023-06-11_11_26_47-Window.png)
 
 You will see a "Review and Check out" Page confirming your payments, your address info, and where you can input payment information.
 
 Feel free to enter how you want to pay.
 
-![Paymentinfo](/2023-06-11+11_28_28-Window.png)
+![Paymentinfo](/2023-06-11_11_28_28-Window.png)
 
 Neat bit I think is that you can pay with Paypal 💰
 
@@ -117,11 +117,11 @@ If you are wondering what domain registration info private is, this is the DNS p
 
 When you're done click on Agree and Continue (you might need to do some extra steps if you use Paypal, I won't share screenshots of that here)
 
-![confirmpayment](/2023-06-11+11_34_04-Window.png)
+![confirmpayment](/2023-06-11_11_34_04-Window.png)
 
 11 - Now that your payment was all setup, you can go right into your Google Workspace, so go ahead and click on Start setup
 
-![YEAABOOOIII](/2023-06-11+11_40_46-Window.png)
+![YEAABOOOIII](/2023-06-11_11_40_46-Window.png)
 
 You will land on your own Google Admin Console. If you are an IT admin, more than likely this will look immediately familiar too you.
 
