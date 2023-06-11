@@ -46,5 +46,5 @@ Well that's my quick and short first blog! I want to make this part of a series 
 
 ## More Readings
 
-[Okta Developer](https://developer.okta.com/)
-[Okta Expression Language](https://developer.okta.com/docs/reference/okta-expression-language/)
+- [Okta Developer](https://developer.okta.com/)
+- [Okta Expression Language](https://developer.okta.com/docs/reference/okta-expression-language/)
