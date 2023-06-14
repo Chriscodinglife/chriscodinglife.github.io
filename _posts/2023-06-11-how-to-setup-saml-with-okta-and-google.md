@@ -35,9 +35,9 @@ The best analogy I ever came across to help me understand this is the following:
 Let's break down then this analogy and compare it to what happens in real life:
 
 - Your the user (the new person in California)
-- Your user account is in Okta, so lets call that user chris@thisoktaenv.com and the Okta URL is thisoktaenv.com
+- Your user account is in Okta, so lets call that user `chris@thisoktaenv.com` and the Okta URL is thisoktaenv.com
 - Google and Okta formed a trust some time prior to you using SSO, and this is actually with an X509 certificate and a SSO issuer URL provided by Okta to Google
-- In reality for SSO to work, there has to be an account for chris@thisoktaenv.com in both Okta and Google, so someone had to manually create both, most likely an IT admin or an app admin
+- In reality for SSO to work, there has to be an account for `chris@thisoktaenv.com` in both Okta and Google, so someone had to manually create both, most likely an IT admin or an app admin
 - When you sign in to Google via Okta, _Okta redirects you to Google with the same X509 certificate used earlier to form that trust_, and when Google sees you came from thisoktaenv.com with the same X509 certificate, Google can trust your session and log you into your Google account (this is the "letter" in the analogy above).
 
 > Usually third party apps like Google might only need some kind of certificate and SSO URL, but other vendors will let you know if you need more information in order to create the initial trust with that app {: .prompt-info }
@@ -86,9 +86,10 @@ We can leave the Application Label as is, and go ahead and hit Next
 
 5 - You just created your first app in Okta! (Unless you already have been creating apps) From here you are taken the App settings page. Pretty much if not most of what we need to setup is already done on Okta's side, but now we need to configure Google to trust our Okta account.
 
-> The great bit about IdPs and SPs is that they are paid to make sure you as a customer have a fluid experience in setting up their app and using it, because at the end of the day they want to make sure you stay as a customer. So a lot of vendors will usually have this "out-of-the-box" experience with setting up SSO with their apps in your preferred IdP, in our case, Okta. {: .prompt-tip }
-
-> Even if you don't have a prebuilt app in your Okta catalog for a given vendor, most if not all the time, the vendor will have someone you can work with to get your SSO setup and configured with your IdP and their app. Always reach out to their support team for help and their knowledge base articles as they are the best resources for getting SSO up and running. {: .prompt-tip }
+> The great bit about IdPs and SPs is that they are paid to make sure you as a customer have a fluid experience in setting up their app and using it, because at the end of the day they want to make sure you stay as a customer. So a lot of vendors will usually have this "out-of-the-box" experience with setting up SSO with their apps in your preferred IdP, in our case, Okta.
+{: .prompt-tip }
+> Even if you don't have a prebuilt app in your Okta catalog for a given vendor, most if not all the time, the vendor will have someone you can work with to get your SSO setup and configured with your IdP and their app. Always reach out to their support team for help and their knowledge base articles as they are the best resources for getting SSO up and running.
+{: .prompt-tip }
 
 In the app settings page, go to the Sign On Tab and scroll down and click on `View SAML setup instructions`.
 

@@ -20,7 +20,7 @@ Setting up a Google Workspace environment is quick and easy, and can definitely 
 - The domain might cost 10 to 20 bucks+ for the year
 - In total you will only pay for a domain for this tutorial
 
-### A quick rant though...
+### A quick rant though
 
 If you have ever tried opening an [Okta Developer](https://blog.chriscoding.app/posts/how-to-get-free-okta-dev/) account, one thing that might stand out to you right away is that the "Free" experience is really missing with Google Workspace. For some reason Google doesn't give devs free Google Workspace environments to test. 🤷‍♂️
 
