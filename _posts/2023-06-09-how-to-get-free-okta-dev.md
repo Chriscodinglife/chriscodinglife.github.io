@@ -1,7 +1,7 @@
 ---
 title: How To Get A Free Okta Developer Account
 date: 2023-06-09 7:00:00 +0000
-categories: [Okta, Developer, Free]
+categories: [Okta, Developer, Free, SSO]
 tags: [developer, free, okta, admin] # TAG names should always be lowercase
 author: chris
 pin: true

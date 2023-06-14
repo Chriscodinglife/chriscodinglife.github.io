@@ -1,7 +1,7 @@
 ---
 title: How To Open A Trial Google Workspace
 date: 2023-06-11 7:00:00 +0000
-categories: [Google, Workspace]
+categories: [Google, Workspace, SSO]
 tags: [google workspace, admin console, trial] # TAG names should always be lowercase
 author: chris
 pin: true
