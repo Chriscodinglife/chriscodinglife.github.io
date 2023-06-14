@@ -1,7 +1,7 @@
 ---
 title: How To Setup SAML SSO With Okta And Google
 date: 2023-06-13 7:00:00 +0000
-categories: [Google, Workspace, Okta, SSO]
+categories: [Okta, SSO]
 tags: [google workspace, admin console, trial, okta, developer] # TAG names should always be lowercase
 author: chris
 pin: true
